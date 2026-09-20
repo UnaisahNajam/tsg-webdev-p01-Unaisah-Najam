@@ -48,13 +48,13 @@ The site is deployed with GitHub Pages: Settings → Pages → Deploy from a bra
 ## 📸 Screenshots
 
 ### Mobile (360px)
-![Mobile view](./tsg-webdev-p01-unaisah-najam-mobile.png)
+![Mobile view](./tsg-webdev-p01-unaisah-najam-mobile.png.png)
 
 ### Tablet (768px)
-![Tablet view](./tsg-webdev-p01-unaisah-najam-tablet.png)
+![Tablet view](./tsg-webdev-p01-unaisah-najam-tablet.png.png)
 
 ### Desktop (1440px)
-![Desktop view](./tsg-webdev-p01-unaisah-najam-desktop.png)
+![Desktop view](./tsg-webdev-p01-unaisah-najam-desktop.png.png)
 
 ## 🙏 Credits
 - Fonts: Google Fonts (JetBrains Mono, Inter), open-source licences
