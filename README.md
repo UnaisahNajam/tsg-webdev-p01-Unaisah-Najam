@@ -3,7 +3,7 @@
 A single-page, fully responsive personal portfolio built with plain HTML5, CSS3 and vanilla JavaScript (ES6). No frameworks, no page builders, no build step.
 
 ## 🔗 Live site
-https://tsg-webdev-p01-unaisah-najam.vercel.app/
+https://unaisahnajam.github.io/tsg-webdev-p01-Unaisah-Najam/
 
 ## ✨ Features
 - Fixed navigation bar with smooth-scroll links to Home, About, Skills, Projects and Contact
