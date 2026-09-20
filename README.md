@@ -19,7 +19,7 @@ https://tsg-webdev-p01-unaisah-najam.vercel.app/
 - Responsive layout for mobile (360px), tablet (768px) and desktop (1440px)
 
 ## 🛠 Tech stack
-HTML5 · CSS3 (Flexbox and Grid) · JavaScript (ES6) · Google Fonts (JetBrains Mono, Inter) · Font Awesome icons · Git and GitHub · GitHub Pages
+HTML5 · CSS3 (Flexbox and Grid) · JavaScript (ES6) · Google Fonts (JetBrains Mono, Inter) · Font Awesome icons · Git and GitHub · Vercel
 
 ## 📁 File structure
 ```
@@ -37,24 +37,24 @@ tsg-webdev-p01-Unaisah-Najam/
 
 ## ⚙️ Setup
 1. Clone the repository:
-```bash
+   ```bash
    git clone https://github.com/UnaisahNajam/tsg-webdev-p01-Unaisah-Najam.git
-```
+   ```
 2. Open the folder and double-click `index.html` to view the site in your browser (or use the Live Server extension in VS Code).
 
 ## 🚀 Deployment
-The site is deployed with GitHub Pages: Settings → Pages → Deploy from a branch → `main` / root.
+The site is a static site deployed on Vercel (no build command needed). To deploy your own copy, import the GitHub repository in Vercel and deploy.
 
 ## 📸 Screenshots
 
 ### Mobile (360px)
-![Mobile view](./tsg-webdev-p01-unaisah-najam-mobile.png.png)
+![Mobile view](./tsg-webdev-p01-unaisah-najam-mobile.png)
 
 ### Tablet (768px)
-![Tablet view](./tsg-webdev-p01-unaisah-najam-tablet.png.png)
+![Tablet view](./tsg-webdev-p01-unaisah-najam-tablet.png)
 
 ### Desktop (1440px)
-![Desktop view](./tsg-webdev-p01-unaisah-najam-desktop.png.png)
+![Desktop view](./tsg-webdev-p01-unaisah-najam-desktop.png)
 
 ## 🙏 Credits
 - Fonts: Google Fonts (JetBrains Mono, Inter), open-source licences
